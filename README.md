@@ -1,13 +1,3 @@
-
-## Customer Segmentation and marketing campaigns analysis
-
-
-
-`Follow link to have a glance at the complete project` [Read More](https://njmondoa.github.io/marketingDemo/)
-
-![Logo](https://miro.medium.com/max/640/1*O40iSPOwoxngN70DYSzs7w.gif)
-
-
 ### Project Overview 🕮
 
 What motivated me to carryout an analysis on marketing campaigns and customer segmentation is that they are an essential component of how businesses promote their interests. It is therefore critical for companies to measure customer engagement with marketing campaigns, evaluate the effectiveness of previous efforts, and suggest data-driven strategies to boost engagement with upcoming campaigns. The data used in the project is taken from kaggle. I could not find a private company data, open for scraping and usage. Hence, my choice.
@@ -73,41 +63,10 @@ What motivated me to carryout an analysis on marketing campaigns and customer se
 
 
 
-### Project Link
-
-`Dont forget to have a glance at the Complete Project` [Read More](https://medium.com/@njimonda.co/exploratory-data-analysis-of-marketing-campaigns-27fba6528a75)
 ### Running the project
 
 To run the (.ipynb) project use Notebook or Google Colab, 
 while Power BI for the (.PBIX) file.
 
-### Support
 
-For support, email *njimonda.co@gmail.com*.
-
-
-### Author
-
-- [@njimonda](https://github.com/njimonda)
-
-
-### Badges
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
-
-### Contributing to this project
-
-Contributions are always welcome!
-
-Please adhere to this project's `code of conduct`.
-
-
-### Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
